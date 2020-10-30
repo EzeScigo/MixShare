@@ -1,0 +1,15 @@
+body {
+  font-family: 'Varela Round', 'Courier New', Courier, monospace;
+  padding: 0px;
+  background-color: whitesmoke;
+}
+
+/* To avoid purple/marked <Link> */
+a {
+  text-decoration: none;
+  color: black;
+}
+
+* {
+  box-sizing: border-box;
+}
