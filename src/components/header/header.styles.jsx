@@ -35,8 +35,8 @@ export const LogoContainer = styled.div`
   margin: auto;
   
   a {
-    font-family: 'Stalinist One', sans-serif;
-    font-size: 30px;
+    font-family: 'Lobster', sans-serif;
+    font-size: 40px;
     color: white;
 
     &:hover {
